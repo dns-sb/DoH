@@ -24,5 +24,5 @@ https://doh.sb/dns-query
 |   Chicago, United States  |   https://us-chi.doh.sb/dns-query     |   [HostVenom](https://xt.om/hostvenom)       	|
 |   Bengaluru, India        |   https://in-blr.doh.sb/dns-query     |   [DigitalOcean](https://xt.om/digitalocean)       	|
 |   Singapore               |   https://sg-sin.doh.sb/dns-query     |   [Linode](https://xt.om/linode)    	        |
-|   Seoul, South Korea      |   https://kr-sel.doh.sb/dns-query     |   Amazon AWS       	|
+|   Seoul, South Korea      |   https://kr-sel.doh.sb/dns-query     |   [Amazon AWS](https://aws.amazon.com/)       	|
 |   Moscow, Russia          |   https://ru-mow.doh.sb/dns-query     |   [Servers.com](https://xt.om/serverscom)       	|
