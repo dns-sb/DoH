@@ -39,3 +39,13 @@ https://45.11.45.11/dns-query
 |   Toronto, Canada         |   `https://ca-yyz.doh.sb/dns-query`     |   [Vultr](https://xt.om/vultr)       	|
 
 *No Logging, DNSSEC enabled*
+
+## How to set DNS.SB DoH Server
+
+- [Mozilla Firefox](https://dns.sb/guide/doh/firefox/)
+- [Google Chrome](https://dns.sb/guide/doh/chrome/)
+- [Microsoft Edge](https://dns.sb/guide/doh/edge/)
+- [Windows](https://dns.sb/guide/doh/windows/)
+- [Linux](https://dns.sb/guide/doh/linux/)
+- [Android](https://dns.sb/guide/doh/android/)
+- [iOS & macOS](https://dns.sb/guide/doh/apple/)
