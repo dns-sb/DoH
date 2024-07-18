@@ -9,11 +9,24 @@ or
 
 `https://doh.sb/dns-query`
 
+or
+
+`https://dns.sb/dns-query`
+
 or if you don't want domain name in URL
+
+IPv4
 
 ```
 https://185.222.222.222/dns-query
 https://45.11.45.11/dns-query
+```
+
+IPv6
+
+```
+https://[2a09::]/dns-query
+https://[2a11::]/dns-query
 ```
 
 ## Unicast PoPs
